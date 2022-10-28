@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ozurumba007
 - 👀 I’m interested in Mobile Designing and development 
-- 🌱 I’m currently learning Flutter Dart Community
+- 🌱 I’m currently learning Dart Programming language
 - 💞️ I’m looking to collaborate on any Project at hand.
 - 📫 How to reach me Onwuasoanyaozurumba007@gmail.com 
 
